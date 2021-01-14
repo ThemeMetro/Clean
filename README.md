@@ -45,7 +45,7 @@ For help the Comments are given in files itself.
 ### No support and update is provided by ThemeMetro
 # &nbsp;&nbsp;
 
-<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/cros-github-banner.png" alt="ThemeMetro" /></a></p>
+<p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/croster-github-banner.png" alt="ThemeMetro" /></a></p>
 
 
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
