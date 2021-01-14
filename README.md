@@ -40,7 +40,7 @@ For help the Comments are given in files itself.
 - vps_hosting.tpl
 - dedicated_servers.tpl
 
-Thanks
+####
 
 # &nbsp;&nbsp;
 ### Buy Premium WHMCS CMS Theme
