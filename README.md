@@ -44,8 +44,6 @@ For help the Comments are given in files itself.
 
 # &nbsp;&nbsp;
 ### Buy Premium WHMCS CMS Theme
-#### "Try it to believe it" Get 90% OFF for 1st month on Croster WHMCS CMS Theme <a href="https://thememetro.com/cart.php?a=add&pid=29&promocode=cTrial">Get it now</a>
-
 
 <p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/croster-github-banner.png" alt="ThemeMetro" /></a></p>
 
@@ -102,6 +100,10 @@ and many more...To see more features, videos please visit at our website and [Cl
 
  ## Browser support:
 latest versions of Firefox, Edge, Chrome, Opera, Safari. We do not offer support for outdated browser versions.
+
+![](https://thememetro.com/images/16.png)
+
+## "Try it to believe it" Get 90% OFF for 1st month on Croster WHMCS CMS Theme <a href="https://thememetro.com/cart.php?a=add&pid=29&promocode=cTrial">Get it now</a>
 
 ![](https://thememetro.com/images/16.png)
 
