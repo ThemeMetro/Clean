@@ -44,7 +44,7 @@ For help the Comments are given in files itself.
 
 # &nbsp;&nbsp;
 ### Buy Premium WHMCS CMS Theme
-# &nbsp;&nbsp;
+
 
 <p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/croster-github-banner.png" alt="ThemeMetro" /></a></p>
 
