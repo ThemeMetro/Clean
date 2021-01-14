@@ -47,6 +47,9 @@ For help the Comments are given in files itself.
 
 <p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/croster-github-banner.png" alt="ThemeMetro" /></a></p>
 
+> Now, Stop using pre-made WHMCS Themes, build your own in no time. The Croster features a powerful & user-friendly page manager like WordPress where No coding skill required. The Croster has almost everything will make every website unique, Also, stop worrying about your custom work at the time of update. Absolutely hassle free update. Take a look at some of more most advanced features: 
+
+# &nbsp;&nbsp;
 
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
 Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
