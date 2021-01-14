@@ -3,7 +3,7 @@ The WHMCS Template
 #### Supported WHMCS 8.1 Stable Release.
 
 ## &nbsp;&nbsp;
-### ThemeMetro now offering this template free forever, you are free to use it, update and modify it without any restriction.
+### ThemeMetro now offering this template free forever, you are free to use it, update and modify it without any restriction. No support and update is provided by ThemeMetro
 ## &nbsp;&nbsp;
 
 #### The following steps will guide you through the installation process:
@@ -42,7 +42,7 @@ For help the Comments are given in files itself.
 
 
 # &nbsp;&nbsp;
-### No support and update is provided by ThemeMetro
+### 
 # &nbsp;&nbsp;
 
 <p><a href="https://thememetro.com/"><img src="https://thememetro.com/images/croster-github-banner.png" alt="ThemeMetro" /></a></p>
