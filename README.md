@@ -44,6 +44,9 @@ For help the Comments are given in files itself.
 # &nbsp;&nbsp;
 ### No support and update is provided by ThemeMetro
 # &nbsp;&nbsp;
+
+# Croster! The Future of WHMCS Themes
+# &nbsp;&nbsp;
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
 Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
 
