@@ -46,6 +46,7 @@ For help the Comments are given in files itself.
 # &nbsp;&nbsp;
 
 # Croster! The Future of WHMCS Themes
+### Stop using pre-made WHMCS Themes, Build your own.
 # &nbsp;&nbsp;
 <p align="left"><a href="https://thememetro.com/"><img src="https://thememetro.com/images/logo.png" alt="ThemeMetro" /></a><br />
 Copyright (c) ThemeMetro.cm All Rights Reserved.</p>
