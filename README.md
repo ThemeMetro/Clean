@@ -47,6 +47,7 @@ For help the Comments are given in files itself.
 
 > Now, Stop using pre-made WHMCS Themes, build your own in no time. The Croster features a powerful & user-friendly page manager like WordPress where No coding skill required. The Croster has almost everything will make every website unique, Also, stop worrying about your custom work at the time of update. Absolutely hassle free update. Take a look at some of more most advanced features: 
 
+### Get FREE WHMCS Starter License
 
 * #### **Single Page Checkout Order form** 
 * **Live Color Scheme Builder** Build your own unique color scheme by using live color scheme builder. 
