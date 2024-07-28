@@ -76,7 +76,7 @@ For help the Comments are given in files itself.
 
 * **Dynamic Announcement** -You just need to select the announcement section in page manager and set how many latest announcements want to show in the section and can show in any of page.
 
-and many more...To see more features, videos please visit at our website and [Click here](https://demo.thememetro.com/whmcs/index.php?systpl=croster&carttpl=croster_default) for [live demo](https://demo.thememetro.com/whmcs/index.php?systpl=croster&carttpl=croster_default)  of front end.
+and many more...To see more features, videos please visit at our website and [Click here](https://thememetro.com) for [live demo](https://demo.thememetro.com/)  of front end.
 
 ![](https://thememetro.com/images/16.png)
 
